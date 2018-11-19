@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physiology on Mirela Domijan</title>
+    <link>https://mireladomijan.github.io/tags/physiology/</link>
+    <description>Recent content in Physiology on Mirela Domijan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mireladomijan.github.io/tags/physiology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Insulin effect on cell cycle</title>
+      <link>https://mireladomijan.github.io/research/insulin/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/insulin/</guid>
+      <description>Muscle development and maintenance is strongly linked to insulin, yet how insulin exactly affects cell proliferation and energy production is not well understood. Various pathways have been identified as facilitators of this interaction, but their integration and linkage to the cell cycle remain unclear. Since these pathways and their interactions are complex, a greater understanding can only be gained using mathematical models. In collaboration with Prof. Francesco Falciani at the Institute of Integrative Biology at Liverpool we are combining single-cell imaging and mathematical modelling in order to tackle these questions.</description>
+    </item>
+    
+  </channel>
+</rss>

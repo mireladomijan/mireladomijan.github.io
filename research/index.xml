@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Mirela Domijan</title>
+    <link>https://mireladomijan.github.io/research/</link>
+    <description>Recent content in Research on Mirela Domijan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mireladomijan.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ABA Signalling</title>
+      <link>https://mireladomijan.github.io/research/signalling/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/signalling/</guid>
+      <description>Dormancy is the time of temporary arrest of an organism&amp;rsquo;s growth and development due to unfavourable external conditions. Dr. Benedicte Wenden&amp;rsquo;s group (at INRIA, Bordeaux) has been looking at how abscisic acid (ABA) and giberellin (GA) hormonal pathways control the bud dormancy of sweet cherries. In collaboration with them, we&amp;rsquo;ve constructed a model of ABA accumulation in several sweet cherry cultivars that sheds light on how the dormancy is affected BY ABA (1).</description>
+    </item>
+    
+    <item>
+      <title>Circadian Clocks</title>
+      <link>https://mireladomijan.github.io/research/clocks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/clocks/</guid>
+      <description>The plant circadian clock is an endogenous time keeper that controls many physiological and developmental processes in plants. Since the clock has such a prominent role, gaining a better understanding of its mechanism and its interaction with the environment is of great import. Up to date, I&amp;rsquo;ve been interested in how light inputs shape the clock behaviour (1) and how they influence the clock&amp;rsquo;s ability to sense temperature (2); how the clock entrains to but also buffers external light and temperature signals (3) and how the clock helps control plants&amp;rsquo; thermoresponsive growth (4), (5).</description>
+    </item>
+    
+    <item>
+      <title>Insulin effect on cell cycle</title>
+      <link>https://mireladomijan.github.io/research/insulin/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/insulin/</guid>
+      <description>Muscle development and maintenance is strongly linked to insulin, yet how insulin exactly affects cell proliferation and energy production is not well understood. Various pathways have been identified as facilitators of this interaction, but their integration and linkage to the cell cycle remain unclear. Since these pathways and their interactions are complex, a greater understanding can only be gained using mathematical models. In collaboration with Prof. Francesco Falciani at the Institute of Integrative Biology at Liverpool we are combining single-cell imaging and mathematical modelling in order to tackle these questions.</description>
+    </item>
+    
+  </channel>
+</rss>

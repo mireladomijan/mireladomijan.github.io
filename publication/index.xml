@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Mirela Domijan</title>
+    <link>https://mireladomijan.github.io/publication/</link>
+    <description>Recent content in Publications on Mirela Domijan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mireladomijan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coordination of robust single cell rhythms in the Arabidopsis circadian clock via spatial waves of gene expression</title>
+      <link>https://mireladomijan.github.io/publication/elife/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/elife/</guid>
+      <description>Some elife stuff</description>
+    </item>
+    
+    <item>
+      <title>ELONGATED HYPOCOTYL 5 mediates blue light signalling to the Arabidopsis circadian clock</title>
+      <link>https://mireladomijan.github.io/publication/hy5/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/hy5/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+    <item>
+      <title>Hormonal balance finely tunes dormancy status in sweet cherry flower buds</title>
+      <link>https://mireladomijan.github.io/publication/aba-signalling/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/aba-signalling/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+    <item>
+      <title>PeTTSy: a computational tool for perturbation analysis of complex systems biology models</title>
+      <link>https://mireladomijan.github.io/publication/pettsy/</link>
+      <pubDate>Wed, 28 Sep 2016 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/pettsy/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+    <item>
+      <title>Phytochromes function as thermosensors in Arabidopsis</title>
+      <link>https://mireladomijan.github.io/publication/phytochromes/</link>
+      <pubDate>Wed, 28 Sep 2016 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/phytochromes/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+  </channel>
+</rss>

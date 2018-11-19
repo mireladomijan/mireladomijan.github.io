@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant Science on Mirela Domijan</title>
+    <link>https://mireladomijan.github.io/tags/plant-science/</link>
+    <description>Recent content in Plant Science on Mirela Domijan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 28 Sep 2018 15:56:37 +0100</lastBuildDate>
+    
+	<atom:link href="https://mireladomijan.github.io/tags/plant-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coordination of robust single cell rhythms in the Arabidopsis circadian clock via spatial waves of gene expression</title>
+      <link>https://mireladomijan.github.io/publication/elife/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/elife/</guid>
+      <description>Some elife stuff</description>
+    </item>
+    
+    <item>
+      <title>ELONGATED HYPOCOTYL 5 mediates blue light signalling to the Arabidopsis circadian clock</title>
+      <link>https://mireladomijan.github.io/publication/hy5/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/hy5/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+    <item>
+      <title>Hormonal balance finely tunes dormancy status in sweet cherry flower buds</title>
+      <link>https://mireladomijan.github.io/publication/aba-signalling/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/aba-signalling/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+    <item>
+      <title>PeTTSy: a computational tool for perturbation analysis of complex systems biology models</title>
+      <link>https://mireladomijan.github.io/publication/pettsy/</link>
+      <pubDate>Wed, 28 Sep 2016 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/pettsy/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+    <item>
+      <title>Phytochromes function as thermosensors in Arabidopsis</title>
+      <link>https://mireladomijan.github.io/publication/phytochromes/</link>
+      <pubDate>Wed, 28 Sep 2016 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/phytochromes/</guid>
+      <description>Some aba stuff</description>
+    </item>
+    
+    <item>
+      <title>ABA Signalling</title>
+      <link>https://mireladomijan.github.io/research/signalling/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/signalling/</guid>
+      <description>Dormancy is the time of temporary arrest of an organism&amp;rsquo;s growth and development due to unfavourable external conditions. Dr. Benedicte Wenden&amp;rsquo;s group (at INRIA, Bordeaux) has been looking at how abscisic acid (ABA) and giberellin (GA) hormonal pathways control the bud dormancy of sweet cherries. In collaboration with them, we&amp;rsquo;ve constructed a model of ABA accumulation in several sweet cherry cultivars that sheds light on how the dormancy is affected BY ABA (1).</description>
+    </item>
+    
+    <item>
+      <title>Circadian Clocks</title>
+      <link>https://mireladomijan.github.io/research/clocks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/clocks/</guid>
+      <description>The plant circadian clock is an endogenous time keeper that controls many physiological and developmental processes in plants. Since the clock has such a prominent role, gaining a better understanding of its mechanism and its interaction with the environment is of great import. Up to date, I&amp;rsquo;ve been interested in how light inputs shape the clock behaviour (1) and how they influence the clock&amp;rsquo;s ability to sense temperature (2); how the clock entrains to but also buffers external light and temperature signals (3) and how the clock helps control plants&amp;rsquo; thermoresponsive growth (4), (5).</description>
+    </item>
+    
+  </channel>
+</rss>

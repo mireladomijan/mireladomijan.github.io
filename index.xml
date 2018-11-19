@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirela Domijan on Mirela Domijan</title>
+    <link>https://mireladomijan.github.io/</link>
+    <description>Recent content in Mirela Domijan on Mirela Domijan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coordination of robust single cell rhythms in the Arabidopsis circadian clock via spatial waves of gene expression</title>
+      <link>https://mireladomijan.github.io/publication/elife/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/elife/</guid>
+      <description>&lt;p&gt;Some elife stuff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ELONGATED HYPOCOTYL 5 mediates blue light signalling to the Arabidopsis circadian clock</title>
+      <link>https://mireladomijan.github.io/publication/hy5/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/hy5/</guid>
+      <description>&lt;p&gt;Some aba stuff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hormonal balance finely tunes dormancy status in sweet cherry flower buds</title>
+      <link>https://mireladomijan.github.io/publication/aba-signalling/</link>
+      <pubDate>Fri, 28 Sep 2018 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/aba-signalling/</guid>
+      <description>&lt;p&gt;Some aba stuff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PeTTSy: a computational tool for perturbation analysis of complex systems biology models</title>
+      <link>https://mireladomijan.github.io/publication/pettsy/</link>
+      <pubDate>Wed, 28 Sep 2016 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/pettsy/</guid>
+      <description>&lt;p&gt;Some aba stuff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phytochromes function as thermosensors in Arabidopsis</title>
+      <link>https://mireladomijan.github.io/publication/phytochromes/</link>
+      <pubDate>Wed, 28 Sep 2016 15:56:37 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/publication/phytochromes/</guid>
+      <description>&lt;p&gt;Some aba stuff&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABA Signalling</title>
+      <link>https://mireladomijan.github.io/research/signalling/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/signalling/</guid>
+      <description>&lt;p&gt;Dormancy is the time of temporary arrest of  an organism&amp;rsquo;s growth and development due to unfavourable external conditions. Dr. Benedicte Wenden&amp;rsquo;s group (at INRIA, Bordeaux) has been looking at how abscisic acid (ABA) and giberellin (GA) hormonal pathways control the bud dormancy of sweet cherries. In collaboration with them, we&amp;rsquo;ve constructed a model of ABA accumulation in several sweet cherry cultivars that sheds light on how the dormancy is affected BY ABA &lt;a href=&#34;https://mireladomijan.github.io/publication/aba-signalling/&#34;&gt;(1)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Circadian Clocks</title>
+      <link>https://mireladomijan.github.io/research/clocks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/clocks/</guid>
+      <description>&lt;p&gt;The plant circadian clock is an endogenous time keeper that controls many physiological and developmental processes in plants. Since the clock has such a prominent role,  gaining  a better understanding of its mechanism and  its interaction with the environment is of great import.
+Up to date, I&amp;rsquo;ve been interested in how light inputs shape the clock behaviour &lt;a href=&#34;https://mireladomijan.github.io/publication/Hy5/&#34;&gt;(1)&lt;/a&gt; and how they influence the clock&amp;rsquo;s ability to sense temperature &lt;a href=&#34;http://msb.embopress.org/content/9/1/650.long&#34; target=&#34;_blank&#34;&gt;(2)&lt;/a&gt;;  how the clock entrains to but also buffers external light and temperature signals &lt;a href=&#34;http://rsfs.royalsocietypublishing.org/content/1/1/177&#34; target=&#34;_blank&#34;&gt;(3)&lt;/a&gt; and  how the clock  helps control  plants&amp;rsquo; thermoresponsive growth &lt;a href=&#34;https://mireladomijan.github.io/publication/Phytochromes/&#34;&gt;(4)&lt;/a&gt;, &lt;a href=&#34;https://www.cell.com/current-biology/fulltext/S0960-98221401424-9&#34; target=&#34;_blank&#34;&gt;(5)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Individual cells contain clocks, so  the most recent work integrates single-cell imaging and mathematical modelling  in order to study how these individual rhythms are co-ordinated &lt;a href=&#34;https://mireladomijan.github.io/publication/eLife/&#34;&gt;(6)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Insulin effect on cell cycle</title>
+      <link>https://mireladomijan.github.io/research/insulin/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mireladomijan.github.io/research/insulin/</guid>
+      <description>&lt;p&gt;Muscle development and maintenance is strongly linked to insulin, yet how insulin exactly affects cell proliferation and energy production is not well understood. Various pathways have been identified as facilitators of this interaction, but their integration and linkage to the cell cycle remain unclear. Since these pathways and their interactions are complex, a greater understanding can only be gained using mathematical models.  In collaboration with Prof. Francesco Falciani at the Institute of Integrative Biology at Liverpool we are combining single-cell imaging and mathematical modelling in order to tackle these questions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
